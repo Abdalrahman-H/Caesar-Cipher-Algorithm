@@ -1,6 +1,6 @@
 # Caesar Cipher
 
-![Caesar Cipher](ciphertext.jpg)
+![Caesar Cipher]([ciphertext.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuXMPfFtXtjC6FmvDnxC-q4BkvjJFZbDCcKw&usqp=CAU))
 
 Welcome to the Caesar Cipher repository! Here, you will learn about the Caesar Cipher encryption technique and how to use it to secure your sensitive data.
 
