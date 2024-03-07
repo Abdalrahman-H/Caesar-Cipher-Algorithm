@@ -1,6 +1,10 @@
 # Caesar Cipher
 
+<<<<<<< HEAD
+![Caesar Cipher](/images/image%20head.jpeg)
+=======
 ![Caesar Cipher]((https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuXMPfFtXtjC6FmvDnxC-q4BkvjJFZbDCcKw&usqp=CAU))
+>>>>>>> 22bcdfe3f0074f9906068ca1ea11d434ab456016
 
 Welcome to the Caesar Cipher repository! Here, you will learn about the Caesar Cipher encryption technique and how to use it to secure your sensitive data.
 
@@ -10,6 +14,10 @@ Welcome to the Caesar Cipher repository! Here, you will learn about the Caesar C
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+![Caesar Cipher](/images/images.jpeg)
+![Caesar Cipher](/images/image.jpeg)
+![Caesar Cipher](/images/Untitled.png)
 
 ## Introduction
 Caesar Cipher is a symmetric encryption algorithm that transforms plain text into cipher text using a secret key. It is a substitution cipher that replaces each letter in the plain text with another letter based on a fixed number of positions down the alphabet.
