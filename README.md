@@ -45,5 +45,4 @@ This repository is licensed under the [MIT License](LICENSE). You are free to us
 
 Enjoy encrypting and decrypting with Caesar Cipher!
 
-<span style="color:green">
-Don't forget to give me a Star  (^_^)</span>
+<font color="green">Don't forget to give me a Star  (^_^)</font>
