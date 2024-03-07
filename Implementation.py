@@ -10,11 +10,11 @@ def caesar_cipher(text, shift):
             encrypted_text += char
     return encrypted_text
 
+user_name = input("Please,Enter your name: ")
+print(" Welcome MR/Miss,",user_name ,", to the world of cryptography in the oldest journey in history ===> Caesar Cipher <===" )
+user_choice = input(" If you want to Encrypt the text ,please Enter 'encrypt' \n If you want to decrypt the message please Enter 'decrypt' \n")
 
-print(" Hello MR/Mis")
-user_choice = input(" Please enter type operation: Encrypt / Decrypt\n")
-
-plain_text = input(" Enter the plain text (Work): ")
+plain_text = input(" Enter the word: ")
 shift_value = int(input(" Enter the shift number: "))
 
 if user_choice.lower() == "encrypt" or user_choice.lower() == "encrypted":
