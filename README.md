@@ -14,9 +14,7 @@ Welcome to the Caesar Cipher repository! Here, you will learn about the Caesar C
 - [Contributing](#contributing)
 - [License](#license)
 
-![Caesar Cipher](/images/images.jpeg)
-![Caesar Cipher](/images/image.jpeg)
-![Caesar Cipher](/images/Untitled.png)
+![Caesar Cipher](/images/images.jpeg)![Caesar Cipher](/images/image.jpeg)![Caesar Cipher](/images/Untitled.png)
 
 ## Introduction
 Caesar Cipher is a symmetric encryption algorithm that transforms plain text into cipher text using a secret key. It is a substitution cipher that replaces each letter in the plain text with another letter based on a fixed number of positions down the alphabet.
